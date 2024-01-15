@@ -1,0 +1,16 @@
+Flask==3.0.0
+Flask-SocketIO==5.3.6
+gensim==4.3.2
+langchain==0.0.354
+langchain-community==0.0.8
+langchain-core==0.1.5
+langsmith==0.0.77
+numpy==1.23.5
+openai @ file:///home/conda/feedstock_root/build_artifacts/openai_1700517404941/work
+pandas==2.0.3
+pinecone-client==2.2.4
+PyPDF2==3.0.1
+simple-websocket==1.0.0
+tiktoken
+tqdm
+
